@@ -5,6 +5,7 @@
 #
 #  Created by jkim on 9/10/14.
 #
+# Script I use to do a Name change process after chaning a name on Active Directory.
 
 #cocoa dialog location
 cd=/private/var/ftboe/cocoaDialog.app/Contents/MacOS/cocoaDialog
